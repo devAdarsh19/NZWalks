@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "cXi8xl9oMKxG70LWFyHNmwu+w1WTn6Lt5yLIaAvDPGc=",
+  "Hash": "crpHv6wrWUWkqZfGbejljkudHZdp8peEqHFkHVcL8MM=",
   "Source": "NZWalks.API",
   "BasePath": "_content/NZWalks.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "NZWalks.API\\wwwroot",
+      "Source": "NZWalks.API",
+      "ContentRoot": "D:\\WebDevelopment\\ASP.NET\\NZWalks\\NZWalks\\NZWalks.API\\wwwroot\\",
+      "BasePath": "_content/NZWalks.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\WebDevelopment\\ASP.NET\\NZWalks\\NZWalks\\NZWalks.API\\wwwroot\\myImg.png",
+      "SourceId": "NZWalks.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebDevelopment\\ASP.NET\\NZWalks\\NZWalks\\NZWalks.API\\wwwroot\\",
+      "BasePath": "_content/NZWalks.API",
+      "RelativePath": "myImg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\myImg.png"
+    }
+  ]
 }
